@@ -104,4 +104,4 @@ st.warning(
     "substituto da avaliação e conferência do farmacêutico."
 )
 
-st.caption("FarmaCalc Educacional • Versão didática-Curso Técnico em Farmácia 1.0-Etec Edson Galvão")
+st.caption("FarmaCalc Educacional • Versão didática- 1.0-Curso Técnico em Farmácia Etec Edson Galvão")
