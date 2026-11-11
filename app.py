@@ -6,7 +6,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("⚗️ FarmaCalc Educacional")
+st.title(" FarmaCalc Educacional ")
 st.caption("Simulador didático de cálculos de princípios ativos")
 
 st.info(
@@ -104,4 +104,4 @@ st.warning(
     "substituto da avaliação e conferência do farmacêutico."
 )
 
-st.caption("FarmaCalc Educacional • Versão didática 1.0")
+st.caption("FarmaCalc Educacional • Versão didática-Curso Técnico em Farmácia 1.0-Etec Edson Galvão")
